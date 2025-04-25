@@ -71,15 +71,19 @@ IMDb provides structured `.tsv.gz` files. Used files:
 
 ## 📊 Sample Dashboards
 
-Dashboards created using **Power BI** (or Tableau). Highlights include:
-
-- 🎥 Movie trends by genre/year  
-- 🌍 Regional release analysis  
-- 🧑‍🤝‍🧑 Popular directors, writers, actors  
-- 📺 Series vs movies: rating and episode insights  
-- ⭐ Top-rated content by category  
+Dashboards created using **Power BI** 
 
 ![DASH1](images/Dash1.png)
+![DASH2](images/Dash2.png)
+![DASH3](images/Dash3.png)
+![DASH4](images/Dash4.png)
+![DASH5](images/Dash5.png)
+
+
+
+
+
+
 
 
 
