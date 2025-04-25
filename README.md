@@ -79,5 +79,7 @@ Dashboards created using **Power BI** (or Tableau). Highlights include:
 - 📺 Series vs movies: rating and episode insights  
 - ⭐ Top-rated content by category  
 
-![DASH1](path/to/dash1.png)
+![DASH1](images/dash1.png)
+
+
 
